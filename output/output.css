@@ -1075,10 +1075,6 @@ html {
   display: none;
 }
 
-.h-screen {
-  height: 100vh;
-}
-
 .select-none {
   -webkit-user-select: none;
      -moz-user-select: none;
